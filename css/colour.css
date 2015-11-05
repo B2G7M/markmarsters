@@ -1,8 +1,28 @@
+/*Mark Marsters colour palette*/
+.grey {
+	background-color: #727E7F;
+}
+
+.darker-grey {
+	background-color: #697D7F;
+}
+
+.light-grey {
+	background-color: #B7C9CC;
+}
+
+.light-blue {
+	background-color: #E4FCFF;
+}
+
+.blue {
+	background-color: #98F2FF;
+}
+
 /*--Blue--*/
 .b-blue {
 	background-color: #53777A;
 }
-
 
 /*--Greys--*/
 .b-grey {
